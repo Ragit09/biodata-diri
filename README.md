@@ -85,3 +85,32 @@ Mari berteman dan berkolaborasi! Anda bisa menemukan saya di:
 Proyek ini berada di bawah lisensi **MIT**. Silakan gunakan dan modifikasi sesuai kebutuhan Anda.
 
 &copy; 2026 **DhezetStudio.** All Rights Reserved.
+
+
+
+
+
+<div align="center">
+
+  <!-- Header Image (Pastikan link gambar valid atau gunakan aset lokal) -->
+  <img src="https://images.unsplash.com/photo-1594901851174-da9762694364?q=80&w=1200&auto=format&fit=crop" alt="Plantation Header" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+
+  # 🌿 Instruksi Pemindahan Barang (IPB) Web App
+  
+  **A specialized digital solution for modern plantation logistics (Palm Oil, Tea, Coffee)**
+
+  [![Node.js Version](https://img.shields.io/badge/Node.js-v18+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Managed%20via%20Supabase-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![JWT Auth](https://img.shields.io/badge/Authentication-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+  ---
+  
+  [Fitur](#features) • [Instalasi](#setup--installation) • [Panduan Pengguna](#usage-guide) • [Docker](#docker-support-optional)
+
+</div>
+
+<br />
+
+## 📖 Overview
+A full-stack web application for managing **IPB (Goods Transfer Instruction)** documents and workflows. This tool digitizes the manual process of goods transfer, ensuring transparency and efficiency across **Admin**, **User Kebun**, and **User Teknis**.
