@@ -1,21 +1,25 @@
 # 🌟 Digital Portfolio - Ragit Dwi Saputra
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![Version](https://img.shields.io/badge/version-1.1.0-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Tech](https://img.shields.io/badge/stack-HTML%20|%20CSS%20|%20JS%20|%20Bootstrap-orange.svg)
 
-Selamat datang di repositori **Portofolio Digital** saya. Website ini dirancang untuk menampilkan profil profesional, riwayat pendidikan, hobi, dan proyek pengembangan aplikasi yang telah saya kerjakan.
+Selamat datang di repositori **Portofolio Digital** saya. Website ini dirancang secara modern dan interaktif untuk menampilkan profil profesional, riwayat pendidikan, keterampilan teknis (tech skills), hobi, serta proyek-proyek pengembangan aplikasi yang telah saya kerjakan.
 
 ---
 
-## ✨ Fitur Utama
+## ✨ Fitur Utama (Terbaru)
 
-- **🚀 Desain Modern & Responsif**: Menggunakan Bootstrap 5 untuk tampilan yang optimal di semua perangkat (Mobile, Tablet, Desktop).
-- **🎨 Animasi Interaktif**: Integrasi dengan AOS (Animate On Scroll) untuk memberikan pengalaman visual yang dinamis.
-- **📚 Riwayat Pendidikan**: Penampilan timeline pendidikan yang rapi dan mudah dibaca.
-- **💻 Showcase Proyek**: Menampilkan berbagai proyek pengembangan seperti *Edufunkids*, *Finflow*, dan *IPB Web App*.
-- **🔗 Link Sosial Media**: Terhubung langsung dengan Instagram, TikTok, GitHub, dan Facebook.
+- **🚀 Desain Modern & Responsif**: Dibangun dengan Bootstrap 5 agar tampil optimal di perangkat Mobile, Tablet, dan Desktop.
+- **🎨 Animasi Interaktif (AOS)**: Efek Animate On Scroll untuk transisi visual yang mulus.
+- **💼 Unduh CV**: Pengunjung dapat mengunduh CV secara langsung di halaman utama.
+- **💻 Daftar Keterampilan (Tech Skills)**: Tampilan visual interaktif untuk memamerkan penguasaan teknologi (HTML, CSS, JS, PHP, MySQL, Figma, Git).
+- **🎓 Riwayat Pendidikan**: Timeline pendidikan lengkap beserta link integrasi ke Maps dan Web.
+- **📁 Showcase & Modal Proyek**: Menampilkan detail proyek seperti *Edufunkids*, *Finflow*, *IPB Web App*, dan *Akademic Data* melalui sistem popup (Modal) yang bersih.
+- **🎭 Detail Hobi Interaktif**: Pengunjung dapat mengklik hobi untuk melihat visual dan deskripsi mendalam.
+- **📬 Formulir Kontak**: Dilengkapi dengan form responsif yang memudahkan untuk berkolaborasi.
+- **🔗 Integrasi Sosial Media**: Akses mudah ke Instagram, TikTok, LinkedIn, GitHub, dan Facebook.
 
 ---
 
@@ -26,7 +30,7 @@ Selamat datang di repositori **Portofolio Digital** saya. Website ini dirancang 
 | **Struktur** | HTML5 |
 | **Styling** | CSS3 & Bootstrap 5.3.2 |
 | **Interaktivitas** | JavaScript (Vanilla) |
-| **Animasi** | AOS Library |
+| **Animasi** | AOS (Animate On Scroll) |
 | **Ikon** | Font Awesome 6.4.2 |
 | **Tipografi** | Google Fonts (Outfit) |
 
@@ -36,9 +40,9 @@ Selamat datang di repositori **Portofolio Digital** saya. Website ini dirancang 
 
 ```text
 biodata-diri/
-├── assets/             # Gambar dan aset statis
+├── assets/             # Direktori gambar, ikon, dan dokumen (termasuk CV)
 ├── css/                # File stylesheet custom
-├── js/                 # Logika JavaScript
+├── js/                 # Logika JavaScript untuk Modal, Form, dan Interaktivitas
 ├── index.html          # Halaman utama (Entry Point)
 └── README.md           # Dokumentasi proyek
 ```
@@ -74,6 +78,7 @@ biodata-diri/
 Mari berteman dan berkolaborasi! Anda bisa menemukan saya di:
 
 - **Instagram**: [@ragit.ds](https://www.instagram.com/ragit.ds?igsh=MWs4emd4Y3A3NWxsMA==)
+- **LinkedIn**: [Ragit Dwi Saputra](https://www.linkedin.com/in/ragit-dwi-saputra-6a3448400?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **GitHub**: [Ragit09](https://github.com/Ragit09)
 - **TikTok**: [@ragitdwisaputra](https://www.tiktok.com/@ragitdwisaputra?_r=1&_t=ZS-9502zvTmyuX)
 - **Email**: [ragitdwisaputra09@gmail.com](mailto:ragitdwisaputra09@gmail.com)
